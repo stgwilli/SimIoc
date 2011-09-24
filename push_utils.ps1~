@@ -8,4 +8,4 @@ function commit_and_push_to_remote()
 }
 
 
-commit_and_push_to_remote
+commit_and_push_to_remote()
