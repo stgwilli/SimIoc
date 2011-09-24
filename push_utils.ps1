@@ -1,5 +1,6 @@
 function commit_and_push_to_remote()
 {
+  "Commit message: "
   $message = read-host
 
   git add -A
