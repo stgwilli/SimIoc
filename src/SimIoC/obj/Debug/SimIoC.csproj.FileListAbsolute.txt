@@ -1,0 +1,5 @@
+C:\Repos\simioc\src\SimIoC\obj\Debug\ResolveAssemblyReference.cache
+C:\Repos\simioc\src\SimIoC\bin\Debug\SimIoC.dll
+C:\Repos\simioc\src\SimIoC\bin\Debug\SimIoC.pdb
+C:\Repos\simioc\src\SimIoC\obj\Debug\SimIoC.dll
+C:\Repos\simioc\src\SimIoC\obj\Debug\SimIoC.pdb

@@ -1,0 +1,15 @@
+C:\Repos\simioc\src\Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Repos\simioc\src\Tests\bin\Debug\Tests.dll
+C:\Repos\simioc\src\Tests\bin\Debug\Tests.pdb
+C:\Repos\simioc\src\Tests\bin\Debug\developwithpassion.specifications.dll
+C:\Repos\simioc\src\Tests\bin\Debug\developwithpassion.specifications.rhinomocks.dll
+C:\Repos\simioc\src\Tests\bin\Debug\Machine.Fakes.Adapters.RhinoMocks.dll
+C:\Repos\simioc\src\Tests\bin\Debug\Machine.Fakes.dll
+C:\Repos\simioc\src\Tests\bin\Debug\Machine.Specifications.dll
+C:\Repos\simioc\src\Tests\bin\Debug\Rhino.Mocks.dll
+C:\Repos\simioc\src\Tests\bin\Debug\SimIoC.dll
+C:\Repos\simioc\src\Tests\bin\Debug\SimIoC.pdb
+C:\Repos\simioc\src\Tests\bin\Debug\developwithpassion.specifications.pdb
+C:\Repos\simioc\src\Tests\bin\Debug\developwithpassion.specifications.rhinomocks.pdb
+C:\Repos\simioc\src\Tests\obj\Debug\Tests.dll
+C:\Repos\simioc\src\Tests\obj\Debug\Tests.pdb
